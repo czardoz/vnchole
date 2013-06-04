@@ -1,5 +1,6 @@
 *.py[co]
 
+plist.txt
 .idea
 .idea/libraries
 
